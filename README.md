@@ -1,6 +1,6 @@
 # biblioteca-de-livros
 
-Sistema de Biblioteca em Python
+
 Este é um projeto de sistema de biblioteca desenvolvido em Python, sugerido pelo professor Marcelo Estruc da faculdade Descomplica
 aplicando os conceitos de orientação a objetos.
 
